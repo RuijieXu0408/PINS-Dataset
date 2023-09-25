@@ -33,7 +33,7 @@ Fig.1. Circular flower beds (this image was taken from a top view tilted at a ce
 
 This scenario is to test the inertial guidance positioning performance of a pedestrian moving up and down stairs in a scenario with altitude change. The experiment is as follows: the pedestrian walks up two 10-step staircases from the 9th floor to the 10th floor and then returns to the starting point on the 9th floor in the same way. Ideally, after the pedestrian returns to the starting point in the original way, the three-dimensional visualization results resolved by the algorithm in the host computer should also return to the original point, and the simulation image should change along the staircase trajectory. The stairs scenario is shown in fig. 2.
 
-<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/10b33760-cc97-47a8-8026-4aa3509e7aaf" width="33%">
+<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/9ea169dd-f91b-4703-81b2-05edaa3f8d6f" width="33%">
 
 Fig. 2. Stairs field scene experiment
 
@@ -53,4 +53,4 @@ R. Xu, S. Chen, W. Sun, Y. Lv, J. Luo, Y. Tang, "A SINS Error Correction Approac
 
 # Acknowledgements
 
-The acquisition of this dataset was done by the Parallel Intelligence Lab at the Institute of Automation, Chinese Academy of Sciences. This work was supported by the Center of National Railway Intelligent Transportation System Engineering and Technology (Contract No. RITS2021KF03,2021YJ004), China Academy of Railway Sciences and CAS STS Dongguan Project (20201600200132).
+The acquisition of this dataset was done by the Parallel Intelligence Technology and Systems Lab at the Institute of Automation, Chinese Academy of Sciences. This work was supported by the Center of National Railway Intelligent Transportation System Engineering and Technology (Contract No. RITS2021KF03,2021YJ004), China Academy of Railway Sciences and CAS STS Dongguan Project (20201600200132).
