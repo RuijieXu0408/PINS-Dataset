@@ -25,7 +25,7 @@ This repository is dedicated to provide a public dataset for PINS researchers, i
 
 In this dataset, the sampler walked normally around a circular flower bed with a circumference of about 27.6m, and ended the walking experiment at the same position as the start point so that the start-end position was the same, with a systematic error of about 82mm. The image of this flower bed is shown in Fig. 1. Therefore, the performance of the error correction method can be evaluated based on the error between the end point and the start point of the trajectory after the experimental filtering.
 
-<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/975c88ef-2034-4807-acc1-f25dbe0844e1" width="33%">
+<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/6490a6c6-4aab-4373-91ab-cd9c8900bb8f" width="33%">
 
 Fig.1. Circular flower beds (this image was taken from a top view tilted at a certain angle, the actual terrain is square)
 
@@ -33,7 +33,7 @@ Fig.1. Circular flower beds (this image was taken from a top view tilted at a ce
 
 This scenario is to test the inertial guidance positioning performance of a pedestrian moving up and down stairs in a scenario with altitude change. The experiment is as follows: the pedestrian walks up two 10-step staircases from the 9th floor to the 10th floor and then returns to the starting point on the 9th floor in the same way. Ideally, after the pedestrian returns to the starting point in the original way, the three-dimensional visualization results resolved by the algorithm in the host computer should also return to the original point, and the simulation image should change along the staircase trajectory. The stairs scenario is shown in fig. 2.
 
-<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/d42ad1de-b0a5-4049-8a66-ac93e28a4360" width="33%">
+<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/10b33760-cc97-47a8-8026-4aa3509e7aaf" width="33%">
 
 Fig. 2. Stairs field scene experiment
 
@@ -41,7 +41,7 @@ Fig. 2. Stairs field scene experiment
 
 This experiment mainly uses the three-axis accelerometer and three-axis gyroscope of the IMU, the sampling rate is 500Hz, and the samples are shown in Figure 3. The first three columns of data are respectively the x, y, z-axis acceleration data in the process of pedestrian movement recorded in the first three columns; the second three columns of the x, y, z-axis angular velocity movement data in the process of pedestrian movement recorded in the second three columns.
 
-<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/85959613-f1c0-4853-9b7b-c918fe1e901a" width="63%">
+<img decoding="async" src="https://github.com/RuijieXu0408/PINS-Dataset/assets/65544040/6d4c32f8-5c9d-4802-9f19-72cd2d7b0c4c" width="63%">
 
 Fig. 3. The samples of dataset
 
